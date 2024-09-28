@@ -1,0 +1,17 @@
+{
+  "name": "learning-backend",
+  "version": "1.0.0",
+  "description": "I am learning BE",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohd Mehran Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^11.1.0",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0"
+  }
+}
